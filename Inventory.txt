@@ -1,0 +1,7 @@
+Brand-Type	        Price	     Stock
+VivoY11 6500 100
+Realme8i 8900 500
+Realme6 8999 500
+CherryMobile 1000 500
+Iphone12 60000 1000
+SamsungGalaxy 20099 500
